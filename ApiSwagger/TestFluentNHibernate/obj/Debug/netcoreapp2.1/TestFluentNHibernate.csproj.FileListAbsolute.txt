@@ -1,0 +1,16 @@
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\TestFluentNHibernate.deps.json
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\TestFluentNHibernate.runtimeconfig.json
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\TestFluentNHibernate.runtimeconfig.dev.json
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\TestFluentNHibernate.dll
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\TestFluentNHibernate.pdb
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.csprojAssemblyReference.cache
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.csproj.CoreCompileInputs.cache
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.AssemblyInfoInputs.cache
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.AssemblyInfo.cs
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.csproj.CopyComplete
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.dll
+C:\Users\garom\Source\Repos\ApiSwagger\TestFluentNHibernate\obj\Debug\netcoreapp2.1\TestFluentNHibernate.pdb

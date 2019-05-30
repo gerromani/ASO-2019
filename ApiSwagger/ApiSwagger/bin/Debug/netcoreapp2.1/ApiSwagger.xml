@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiSwagger</name>
+    </assembly>
+    <members>
+        <member name="T:ApiSwagger.Controllers.TaskController">
+            <summary>
+            This class will manage all the task asociated to a person
+            </summary>
+        </member>
+    </members>
+</doc>

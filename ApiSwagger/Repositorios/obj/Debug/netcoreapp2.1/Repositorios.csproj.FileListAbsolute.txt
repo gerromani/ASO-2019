@@ -1,0 +1,6 @@
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\bin\Debug\netcoreapp2.1\Repositorios.deps.json
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\bin\Debug\netcoreapp2.1\Repositorios.dll
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\obj\Debug\netcoreapp2.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\obj\Debug\netcoreapp2.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\obj\Debug\netcoreapp2.1\Repositorios.AssemblyInfo.cs
+C:\Users\garom\Source\Repos\ApiSwagger\Repositorios\obj\Debug\netcoreapp2.1\Repositorios.csprojAssemblyReference.cache
